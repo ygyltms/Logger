@@ -1,4 +1,4 @@
 Logger
 ======
 
-A kind of Logger
+A kind of Logger test
